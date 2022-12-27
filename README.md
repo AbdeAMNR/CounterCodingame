@@ -1,6 +1,6 @@
 # Codingame
 
-![image](https://user-images.githubusercontent.com/47082009/209729342-7ad84ce1-82b1-4cb2-bdb4-b216435317e0.png)
+![image](https://user-images.githubusercontent.com/47082009/209729990-749c73f6-f13f-415c-8b5c-fbff43609c00.png)
 
 
 
