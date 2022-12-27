@@ -9,7 +9,7 @@ import { Component, Output, Input, EventEmitter, OnDestroy, } from '@angular/cor
 })
 export class CounterComponent implements OnDestroy {
   public inputValue: string = '';
-  public thePeriod!: NodeJS.Timer;
+  public thePeriod: any; //NodeJS.Timer;
 
   @Input() message!: string;
   @Output() public tick: EventEmitter<string> = new EventEmitter();
