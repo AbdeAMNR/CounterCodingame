@@ -1,4 +1,4 @@
-# Codinggame
+# Codingame
 
 ![image](https://user-images.githubusercontent.com/47082009/209729342-7ad84ce1-82b1-4cb2-bdb4-b216435317e0.png)
 
